@@ -2,7 +2,7 @@
 ## Linux64 UNOFFICIAL Dev Builds of SynfigStudio
 ### Latest version available:  
 
-SynfigStudio-UNOFFICIAL-1.5.3-2025.08.01-linux64-b9880.AppImage  
+SynfigStudio-UNOFFICIAL-1.5.3-2025.09.03-linux64-e3ca2.AppImage 
 
 [releases](https://github.com/BobSynfig/synfig/releases)
 

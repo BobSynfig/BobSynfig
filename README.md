@@ -6,6 +6,8 @@ SynfigStudio-UNOFFICIAL-1.5.3-2025.09.03-linux64-e3ca2.AppImage
 
 [releases](https://github.com/BobSynfig/synfig/releases)
 
+Also runs under [Windows 11 with WSL 2](https://forums.synfig.org/t/running-synfig-appimage-linux-in-windows-11-wsl-2/16770)
+
 ---
 ### Official builds: 
 

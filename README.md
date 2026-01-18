@@ -2,7 +2,7 @@
 ## Linux64 UNOFFICIAL Dev Builds of SynfigStudio
 ### Latest version available:  
 
-SynfigStudio-UNOFFICIAL-1.5.3-2025.12.29-linux64-aef9a.AppImage  
+SynfigStudio-UNOFFICIAL-1.5.4-2026.01.18-linux64-d8951.AppImage (based on official 1.5.4 dev)  
 SynfigStudio-UNOFFICIAL-1.5.3-2026.01.14-linux64-6c76e.AppImage (with Guide Lock)
 
 [releases](https://github.com/BobSynfig/synfig/releases)
@@ -22,7 +22,7 @@ On **FlatHub**, [Development](https://flathub.org/apps/org.synfig.SynfigStudio)
 On **Snap Store**, [outdated 1.42 & 1.5.1](https://snapcraft.io/synfigstudio) only currently  
 
 
-Current versions are **1.4.5** (Stable) and **1.5.3** (Development), _please report bugs for those version only_!
+Current versions are **1.4.5** (Stable) and **1.5.4** (Development), _please report bugs for those version only_!
 
 <!--
 **BobSynfig/BobSynfig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

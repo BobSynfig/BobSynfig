@@ -8,6 +8,8 @@
 
 Also runs under [Windows 11 with WSL 2](https://forums.synfig.org/t/running-synfig-appimage-linux-in-windows-11-wsl-2/16770)
 
+See also this little utility: Trackpad -> Jog Dial for Synfig [JogDial_Synfig.py](https://gist.github.com/BobSynfig/26ab3ebab23205969d526e6550471ebe)
+
 ---
 ### Official builds: 
 

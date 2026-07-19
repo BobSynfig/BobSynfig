@@ -1,7 +1,7 @@
 ## Linux64 UNOFFICIAL Dev Builds of SynfigStudio
 ### Latest version available:  
 
-[SynfigStudio-UNOFFICIAL-1.5.5-2026.07.01-linux64-4d488.AppImage](https://github.com/BobSynfig/synfig/releases/tag/UNOFFICIAL-1.5.5-2026.07.01)  
+[SynfigStudio-UNOFFICIAL-1.5.5-2026.07.19-linux64-3e3c1.AppImage](https://github.com/BobSynfig/synfig/releases/tag/UNOFFICIAL-1.5.5-2026.07.19)  
 [SynfigStudio-UNOFFICIAL-1.5.5-2026.05.06-linux64-97f56.AppImage](https://github.com/BobSynfig/synfig/releases/tag/UNOFFICIAL-1.5.5-2026.05.06-test-pr-3623) (TEST FOR feat(converter): new 'IK angle' converter synfig#3623)  
 [SynfigStudio-UNOFFICIAL-1.5.3-2026.01.14-linux64-6c76e.AppImage](https://github.com/BobSynfig/synfig/releases/tag/UNOFFICIAL-1.5.3-2026.01.14_Guides_Lock) (with Guide Lock)  
 

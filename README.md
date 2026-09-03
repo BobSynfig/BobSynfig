@@ -26,6 +26,9 @@ On **Snap Store**, [outdated 1.42 & 1.5.1](https://snapcraft.io/synfigstudio) on
 
 Current versions are **1.4.5** (Stable) and **1.5.5** (Development), _please report bugs for those version only_!
 
+---
+![VirusTotal_False_Positive](https://github.com/BobSynfig/BobSynfig/blob/main/images/FalsePositive.png?raw=true)
+
 <!--
 **BobSynfig/BobSynfig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
